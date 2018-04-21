@@ -7,3 +7,8 @@
 /build
 /captures
 .externalNativeBuild
+app/proguard-rules.pro
+*.java
+*.xml
+*.png
+*.gradle
