@@ -1,4 +1,4 @@
-使用jitpack进行操作，如果需要引入，则需要以下步骤，现阶段为zzh0.0.2版本
+使用jitpack进行操作，如果需要引入，则需要以下步骤，现阶段为zzh0.0.3版本
 当前版本有一个圆形图片，针对int[]类型的快速排序，以及一个将float转化为dp的转化工具,自定义柱状图.
 
 Step 1. Add the JitPack repository to your build file
