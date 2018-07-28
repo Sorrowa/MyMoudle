@@ -3,7 +3,6 @@ package com.example.zzh_tool.MyView;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.RectF;
@@ -11,14 +10,11 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 
 import com.example.zzh_tool.R;
-import com.example.zzh_tool.tool_zzh.Tool_setting;
 
 import java.util.ArrayList;
-
 
 /**
  * 仿制tim在线文档view
